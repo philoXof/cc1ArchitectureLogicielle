@@ -6,9 +6,13 @@
 
   <groupId>org.example</groupId>
   <artifactId>cc1ArchitectureLogicielle</artifactId>
-  <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>User</module>
+    </modules>
 
-  <name>cc1ArchitectureLogicielle</name>
+    <name>cc1ArchitectureLogicielle</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
